@@ -1,0 +1,13 @@
+C:\Users\Nico\source\repos\hola\obj\Debug\netcoreapp3.1\hola.AssemblyInfoInputs.cache
+C:\Users\Nico\source\repos\hola\obj\Debug\netcoreapp3.1\hola.AssemblyInfo.cs
+C:\Users\Nico\source\repos\hola\obj\Debug\netcoreapp3.1\hola.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\hola\bin\Debug\netcoreapp3.1\hola.exe
+C:\Users\Nico\source\repos\hola\bin\Debug\netcoreapp3.1\hola.deps.json
+C:\Users\Nico\source\repos\hola\bin\Debug\netcoreapp3.1\hola.runtimeconfig.json
+C:\Users\Nico\source\repos\hola\bin\Debug\netcoreapp3.1\hola.runtimeconfig.dev.json
+C:\Users\Nico\source\repos\hola\bin\Debug\netcoreapp3.1\hola.dll
+C:\Users\Nico\source\repos\hola\bin\Debug\netcoreapp3.1\hola.pdb
+C:\Users\Nico\source\repos\hola\obj\Debug\netcoreapp3.1\hola.dll
+C:\Users\Nico\source\repos\hola\obj\Debug\netcoreapp3.1\hola.pdb
+C:\Users\Nico\source\repos\hola\obj\Debug\netcoreapp3.1\hola.genruntimeconfig.cache
+C:\Users\Nico\source\repos\hola\obj\Debug\netcoreapp3.1\hola.csproj.AssemblyReference.cache
